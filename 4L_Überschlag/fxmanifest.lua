@@ -3,7 +3,7 @@ game 'gta5'
 
 author 'Life4tune'
 description 'Überschlag erkennen'
-version '1.0.0'
+version '0.0.1'
 
 lua54 'yes'
 
